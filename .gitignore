@@ -1,3 +1,4 @@
 *.db
 *.tar.gz
 libs/chembl_36/chembl_36_sqlite/*
+*.csv
